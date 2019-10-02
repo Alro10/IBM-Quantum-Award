@@ -3,6 +3,12 @@ A list of resources for IBM Quantum challenge 2019 (official site)[https://ibmqa
 
 ## Coding examples
 
+- Overview
+- Basic algorithm
+- ML Example
+- Avanced ML
+- Recent winnner implementation
+
 ## Winners 2018
 
 ### Papers
