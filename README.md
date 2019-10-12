@@ -1,5 +1,5 @@
 # IBM Quantum Award resources
-A list of resources for IBM Quantum challenge 2019 [official site](https://ibmqawards.com). Some useful infomation: [blog](https://www.ibm.com/blogs/research/2019/09/building-quantum-skills/)
+A list of resources for IBM Quantum challenge 2019 [official site](https://ibmqawards.com). Useful infomation: [blog](https://www.ibm.com/blogs/research/2019/09/building-quantum-skills/)
 
 ## Coding examples
 
