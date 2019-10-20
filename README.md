@@ -25,6 +25,8 @@ A list of resources for IBM Quantum challenge 2019 [official site](https://ibmqa
   
 ### Tutorial
 
+- [XY-Hamiltonian:Blog](https://medium.com/qiskit/how-i-became-a-quantum-computation-scientist-dbf4ccd538c9)
+
 ## Resources
 
 Where to start learning!
