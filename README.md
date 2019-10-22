@@ -7,7 +7,7 @@ A list of resources for IBM Quantum challenge 2019 [official site](https://ibmqa
 - Basic algorithm
 - ML Example
 - Advanced ML
-- Recent winnner implementation
+- Recent winner implementation
 
 ## Winners 2018
 
@@ -22,7 +22,7 @@ A list of resources for IBM Quantum challenge 2019 [official site](https://ibmqa
 - [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/pdf/1806.11463.pdf)
 
   - [[Code](https://gitlab.com/apozas/bayesian-dl-quantum/)]
-  
+
 ### Tutorial
 
 - [XY-Hamiltonian:Blog](https://medium.com/qiskit/how-i-became-a-quantum-computation-scientist-dbf4ccd538c9)
