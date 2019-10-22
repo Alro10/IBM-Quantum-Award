@@ -1,12 +1,12 @@
 # IBM Quantum Award resources
-A list of resources for IBM Quantum challenge 2019 [official site](https://ibmqawards.com). Useful infomation: [blog](https://www.ibm.com/blogs/research/2019/09/building-quantum-skills/)
+A list of resources for IBM Quantum challenge 2019 [official site](https://ibmqawards.com). Useful information: [blog](https://www.ibm.com/blogs/research/2019/09/building-quantum-skills/)
 
 ## Coding examples
 
 - Overview
 - Basic algorithm
 - ML Example
-- Avanced ML
+- Advanced ML
 - Recent winnner implementation
 
 ## Winners 2018
