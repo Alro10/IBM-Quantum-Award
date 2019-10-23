@@ -34,3 +34,7 @@ Where to start learning!
 - [IBM Qiskit](https://qiskit.org)
 
 - [IBM Q experience](https://quantum-computing.ibm.com)
+
+## Extras
+
+- [Google demonstrates its quantum supremacy-Paper from Nature](https://www.nature.com/articles/s41586-019-1666-5?fbclid=IwAR382bUHaSOgZpZDw7HMSAESLXQ_skyNW7Qza3UPivcUu_SmnW-XyUk9ez8)
