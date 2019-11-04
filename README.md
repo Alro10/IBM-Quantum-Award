@@ -35,6 +35,8 @@ Where to start learning!
 
 - [IBM Q experience](https://quantum-computing.ibm.com)
 
+- [Coding with Qiskit - Videos](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY)
+
 - [Quantum Gates](https://quantum-computing.ibm.com/support/guides/gate-overview)
 
 ## Extras
