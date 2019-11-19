@@ -35,6 +35,8 @@ A list of resources for IBM Quantum challenge 2019 [official site](https://ibmqa
 
 Where to start learning!
 
+- [Qiskit-Textbook](https://community.qiskit.org/textbook/)
+
 - [IBM Qiskit](https://qiskit.org)
 
 - [IBM Q experience](https://quantum-computing.ibm.com)
